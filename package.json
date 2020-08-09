@@ -1,0 +1,30 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "bootstrap 4 starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xshakil/confusion.git"
+  },
+  "author": "Shakil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xshakil/confusion/issues"
+  },
+  "homepage": "https://github.com/xshakil/confusion#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
